@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> d:\Users\My Documents\Visual Studio 2017\Projects\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> d:\Users\My Documents\Visual Studio 2017\Projects\Project1\x64\Debug\Project1.pdb (Partial PDB)
